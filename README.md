@@ -29,10 +29,10 @@ This project allows users to **generate invoices, manage products/customers, app
 
 ## 📸 Screenshots
 ### Dashboard
-![Dashboard Screenshot](docs/images/dashboard.png)
+![Dashboard Screenshot](Invoice-Generator-App/dashboard.png)
 
 ### Invoice Creation
-![Invoice Screenshot](docs/images/invoice.png)
+![Invoice Screenshot](Invoice-Generator-App/invoice.png)
 
 ---
 
